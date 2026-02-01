@@ -34,8 +34,11 @@ This project involves:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0A66C2)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Star%20Schema-success)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
 ![Medallion Architecture](https://img.shields.io/badge/Architecture-Bronze%20Silver%20Gold-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![Status](https://img.shields.io/badge/Project-Complete-success)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/AbdulazizAlansi/data_engineer_project)
 ![License](https://img.shields.io/github/license/AbdulazizAlansi/data_engineer_project)
 
