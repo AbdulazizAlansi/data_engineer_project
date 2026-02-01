@@ -32,6 +32,14 @@ This project involves:
 - Data Modeling  
 - Data Analytics
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0A66C2)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
+![Medallion Architecture](https://img.shields.io/badge/Architecture-Bronze%20Silver%20Gold-orange)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/AbdulazizAlansi/data_engineer_project)
+![License](https://img.shields.io/github/license/AbdulazizAlansi/data_engineer_project)
+
+
 ## 🏗️ Data Model
 
 The data model for this project describes the Gold schema, including primary keys (PK), foreign keys (FK), and relationships between dimension and fact tables:
