@@ -118,4 +118,4 @@ Hi there! I'm Abdulaziz Alansi — Data Engineer with a background in Computer S
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/abdulaziz-alansi-7bb3b324a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLviXEV8fQ5Oqd8xFUboECw%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alansi-7bb3b324a/)
