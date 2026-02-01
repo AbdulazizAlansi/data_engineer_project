@@ -30,7 +30,12 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-- Data Analytics  
+- Data Analytics
+
+## 🏗️ Data Model
+
+The data model for this project describes the Gold schema, including primary keys (PK), foreign keys (FK), and relationships between dimension and fact tables:
+![Data Model](https://github.com/AbdulazizAlansi/data_engineer_project/blob/main/doc/Data_modeling.drawio.jpg)
 
 ---
 
@@ -43,7 +48,8 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion
-- **[Notion Project Steps]([https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4](https://www.notion.so/Data-Warehouse-Project-2f6eb0144a1880e0a09fc282578f7754?source=copy_link):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps](https://www.notion.so/Data-Warehouse-Project-2f6eb0144a1880e0a09fc282578f7754?source=copy_link):** Access to All Project Phases and Tasks.
+
 
 ---
 
@@ -102,9 +108,9 @@ data-warehouse-project/
 
 ## ☕ Stay Connected
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on the following platform:
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)](https://www.linkedin.com/in/abdulaziz-alansi-7bb3b324a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsfImZIV0SKCvnqBX1LPeYw%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alansi-7bb3b324a/)
 
 ---
 
@@ -116,6 +122,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm Abdulaziz Alansi — Data Engineer with a background in Computer Science, focused on building reliable data pipelines, data warehouses, and analytics-ready datasets.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Feel free to connect with me on the following platform:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alansi-7bb3b324a/)
